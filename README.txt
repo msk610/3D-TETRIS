@@ -27,7 +27,7 @@ SOFTWARE.
 
 Functionality and UI:
 ------------------------------------
-	This game has a friendly and easy to navigate UI. It also allows you to fully experience the game in 3D with XYZ transitional movement and rotation.
+This game has a friendly and easy to navigate UI. It also allows you to fully experience the game in 3D with XYZ transitional movement and rotation.
 
 Download:
 --------------------------------
