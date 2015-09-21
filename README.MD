@@ -5,6 +5,7 @@
 Announcements
 -------------------------
 Application name changed to 3D tiler for copyright issues
+![alt tag](http://imgur.com/s2fROzZ.png)
 
 Intro:
 ------
