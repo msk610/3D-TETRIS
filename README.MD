@@ -15,6 +15,7 @@ This game has a friendly and easy to navigate UI. It also allows you to fully ex
 Download:
 ---------
 The application is available on Google Play Store and it is absolutely free so be sure to download it.
+Download Link: https://play.google.com/store/apps/details?id=com.tiler.game.android&hl=en
 
 
 Clone Project and Running on Desktop:
