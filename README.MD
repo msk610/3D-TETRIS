@@ -34,6 +34,8 @@ Clone Project and Running on Desktop:
 --------------------------------------
 Remember to change to your sdk path in localproperties file, and run the “dist” to generate a .jar file to run and play on desktop.
 
+Clone Link: https://github.com/msk610/3D-TETRIS.git
+
 
 Feedback:
 ---------
