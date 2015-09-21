@@ -2,6 +2,10 @@
 ----------------------------
 ![alt tag](http://imgur.com/SYBZuNn.png)
 
+Announcements
+-------------------------
+Application name changed to 3D tiler for copyright issues
+
 Intro:
 ------
 3D TETRIS is the new 3D version of the classic tile matching game TETRIS. This project was initiated by the Bimolecular Science Department at NYU Poly. This fun game is certainly entertaining as it challenges you more by making you clear rows in the 3D space.
@@ -10,6 +14,13 @@ Intro:
 Functionality and UI:
 ----------------------
 This game has a friendly and easy to navigate UI. It also allows you to fully experience the game in 3D with XYZ transitional movement and rotation.
+
+Screenshots:
+-------------
+![alt tag](http://imgur.com/5XCn3ZI.png)
+![alt tag](http://imgur.com/Aw0Or3g.png)
+![alt tag](http://imgur.com/MBijc72.png)
+![alt tag](http://imgur.com/zV00HPn.png)
 
 
 Download:
